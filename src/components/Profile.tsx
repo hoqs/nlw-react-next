@@ -12,10 +12,9 @@ export function Profile(){
             <strong>
                 Henrique Oliveira
             </strong>
-            <p>
-                <img src="icons/level.svg"/>
-                <Level/>
-            </p>
+            
+            <Level/>
+        
         </div>
     </div>);
 }
